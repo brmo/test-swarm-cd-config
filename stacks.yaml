@@ -8,3 +8,8 @@ helloworld:
   repo: test-swarm-cd
   branch: main
   compose_file: helloworld/compose.yaml
+
+enclosed:
+  repo: test-swarm-cd
+  branch: main
+  compose_file: enclosed/compose.yaml
