@@ -1,0 +1,10 @@
+# stacks.yaml
+caddy:
+  repo: test-swarm-cd
+  branch: main
+  compose_file: caddy/compose.yaml
+
+helloworld:
+  repo: test-swarm-cd
+  branch: main
+  compose_file: helloworld/compose.yaml
