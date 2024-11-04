@@ -1,3 +1,3 @@
 # repos.yaml
 swarm-cd-example:
-  url: "https://gitea.lab17.us/brmo/test-swarm-cd.git"
+  url: "https://github.com/brmo/test-swarm-cd.git"
